@@ -1,0 +1,4 @@
+
+--- New Session ---
+Hello[SPACE]World[ENTER]
+This[SPACE]is[SPACE]a[SPACE]Test[ENTER]
